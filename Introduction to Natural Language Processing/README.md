@@ -57,7 +57,8 @@ Different Transformer Architectures
 
 Applications of Transformers
 
-4	Large Language Models and Prompt Engineering	
+4	
+Large Language Models and Prompt Engineering	
 Introduction to LLMs
 
 Working of LLMs
@@ -75,3 +76,5 @@ A hands-on project is to be submitted at the end of the course that will help yo
 
 In today's business landscape, organizations recognize the pivotal role of customer feedback in shaping products and services. Swift responses to customer input not only enhance experiences but also drive growth and foster lasting relationships. For Product Managers, staying attuned to customer voices is a strategic imperative. Beyond processing feedback, a structured approach is crucial to managing experiences effectively. Leveraging automated Support Ticket Categorization, powered by Large Language Models and Generative AI, is a key strategy for organizations to handle customer concerns efficiently in the modern business environment.
 
+https://olympus.mygreatlearning.com/courses/101146/modules/items/5961662?pb_id=16603
+ 
